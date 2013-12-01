@@ -1,4 +1,9 @@
-*.mp3
+# Directories
 output
 public
+
+
+# Files
+*.pyc
+*.mp3
 .DS_Store
