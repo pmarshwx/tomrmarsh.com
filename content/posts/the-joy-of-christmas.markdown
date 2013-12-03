@@ -8,8 +8,12 @@ comments: True
 icon: /images/the-joy-of-christmas-icon.png
 
 
+[TOC]
 
+<center>
 {% img center /images/the-joy-of-christmas.png 400 The Joy of Christmas %}
+</center>
+
 
 ### The Songs (click song title to listen):
 
