@@ -1,6 +1,8 @@
 title: Celebrate the Season
 date: 2013-12-01 00:00
 category: Album
+description: Album
+music: True
 album: True
 donate: True
 facebook: True
@@ -119,7 +121,7 @@ This original composition still provides you with the feeling of the Three Kings
 
 
 #### **CAROL OF THE BELLS**
-Both my daughters, Nikki and Michele, were in their high school choir and part of an ensemble of singers who travelled to various events to perform.
+Both my daughters, Nikki and Michele, were in their high school choir and part of an ensemble of singers who traveled to various events to perform.
 During the Christmas season, they would always enjoy singing this lively and melodic hymn.
 To be honest, I have always enjoyed this song and while it was part of my first album "The Joy of Christmas" I just had to include it again on this album.
 Listen while the song is played as a round with each pass providing a variation on the classic style of the bells.
@@ -131,7 +133,7 @@ Most probably because the song's melody is boring to put it bluntly, and the nam
 I will be the first to admit I had to look up how to spell the name of the King when making the labels for the CD.
 (Spell Check!).
 I decided to alter the movement and liven up the song while keeping the song as close to traditional as possible.
-Listen to the original interlude composition between each verse which I use to keep the song lively and moving without losing the integrity of the tradition song.
+Listen to the original interlude composition between each verse which I use to keep the song lively and moving without losing the integrity of the traditional song.
 I hope you enjoy this lively version of an old classic hymn.
 
 
@@ -163,5 +165,5 @@ Listen to the blocks pounding out the beat giving a truly Latin sound to the son
 [14]: /downloads/music/celebrate-the-season/14-Feliz-Navidad.mp3 "Feliz Navidad"
 [15]: /downloads/music/celebrate-the-season/15-Charlie-Brown-Drummer-Boy.mp3 "Charlie Brown Drummer Boy"
 [16]: /downloads/music/celebrate-the-season/16-Auld-Lang-Syne.mp3 "Auld Lang Syne"
-[17]: {filename}/posts/the-joy-of-christmas.markdown "The Joy of Christmas"
+[17]: {filename}/posts/2013/the-joy-of-christmas.markdown "The Joy of Christmas"
 [18]: {filename}/pages/how-to-obtain-a-cd.markdown "Obtaining a CD"

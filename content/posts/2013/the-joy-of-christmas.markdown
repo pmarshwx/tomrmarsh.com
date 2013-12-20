@@ -1,6 +1,8 @@
 title: The Joy of Christmas
 date: 2012-12-01 00:00
 category: Album
+description: Album
+music: True
 album: True
 donate: True
 facebook: True
